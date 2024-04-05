@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nombre": "Aretes de girasol",
+        "cantidad": "24",
+        "descripcion": "Los aretes de girasol son joyas para las orejas que presentan dise\u00c3\u00b1os inspirados en la flor de girasol. Por lo general, estos aretes est\u00c3\u00a1n hechos de materiales como el metal, la plata, el oro o la resina, y pueden tener detalles en esmalte, pintura o piedras preciosas, Estos aretes son populares entre las personas que aman la naturaleza y la jardiner\u00c3\u00ada, ya que el girasol es una flor que simboliza la felicidad, la energ\u00c3\u00ada y el sol. Adem\u00c3\u00a1s, pueden ser una excelente opci\u00c3\u00b3n de regalo para alguien que ama las flores o para alguien que busca una joya con un toque de personalidad y estilo.",
+        "precio": "$35.00",
+        "imagen": "img/Aretes de girasol.png"
+    },
+    {
+        "id": 1,
+        "nombre": "Aretes de girasol",
+        "cantidad": "24",
+        "descripcion": "Los aretes de girasol son joyas para las orejas que presentan dise\u00c3\u00b1os inspirados en la flor de girasol. Por lo general, estos aretes est\u00c3\u00a1n hechos de materiales como el metal, la plata, el oro o la resina, y pueden tener detalles en esmalte, pintura o piedras preciosas, Estos aretes son populares entre las personas que aman la naturaleza y la jardiner\u00c3\u00ada, ya que el girasol es una flor que simboliza la felicidad, la energ\u00c3\u00ada y el sol. Adem\u00c3\u00a1s, pueden ser una excelente opci\u00c3\u00b3n de regalo para alguien que ama las flores o para alguien que busca una joya con un toque de personalidad y estilo.",
+        "precio": "$35.00",
+        "imagen": "img/Aretes de girasol.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Aretes de panda",
+        "cantidad": "20",
+        "descripcion": "Los aretes de panditas son joyas para las orejas que presentan dise\u00c3\u00b1os de peque\u00c3\u00b1os osos panda. Estos aretes son populares entre las personas que disfrutan de la moda kawaii o la cultura pop japonesa, ya que los pandas son un s\u00c3\u00admbolo popular en estas \u00c3\u00a1reas. Adem\u00c3\u00a1s, pueden ser una excelente opci\u00c3\u00b3n de regalo para alguien que ama a estos adorables animales.",
+        "precio": "$35.00",
+        "imagen": "img/Aretes de panda.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Aretes de nube",
+        "cantidad": "10",
+        "descripcion": "Los aretes de nubes son joyas para las orejas que presentan dise\u00c3\u00b1os inspirados en las formas y texturas de las nubes. Estos aretes son populares entre las personas que buscan una joya con un toque de fantas\u00c3\u00ada o imaginaci\u00c3\u00b3n. Tambi\u00c3\u00a9n pueden ser una excelente opci\u00c3\u00b3n para los amantes de la meteorolog\u00c3\u00ada o de la astronom\u00c3\u00ada. Adem\u00c3\u00a1s, los aretes de nubes pueden ser una buena elecci\u00c3\u00b3n para complementar un outfit con un toque suave y rom\u00c3\u00a1ntico.",
+        "precio": "$50.00",
+        "imagen": "img/Aretes de nubes.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Mascarillas",
+        "cantidad": "20",
+        "descripcion": " Nuestras mascarillas en presentacion de cannabi con contenido fresco, se recomienda guardar en un lugar seco y sin exposicion al sol para conservar la calidad y frescura del producto.",
+        "precio": "$5.00",
+        "imagen": "img/mascarillas.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Cremas para manos ",
+        "cantidad": "14",
+        "descripcion": " Cremas para manos en diferentes presentaciones, esencia aleatoria c\u00c3\u00b3mo miel, aguacate, leche, gardenia, t\u00c3\u00a9 verde, flor de cerezo,almendra, presentaci\u00c3\u00b3n de 30g",
+        "precio": "$10.00",
+        "imagen": "img/crema.jpeg"
+    },
+    {
+        "id": 7,
+        "nombre": "Falda Tableada ",
+        "cantidad": "2",
+        "descripcion": " Falda unitalla, color amarillo con estampado a cuadros, tela suave con volado.",
+        "precio": "$99.00",
+        "imagen": "img/faldaamarilla.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Pantalon Gris ",
+        "cantidad": "5",
+        "descripcion": " Pantal\u00c3\u00b3n con estampado de cuadros gris y negro, tela tipo gabardina, incluye cinto de tela.",
+        "precio": "$99.00",
+        "imagen": "img/pantalon gris.jpeg"
+    },
+
+    {
+        "id": 100,
+        "nombre": "pan de horno",
+        "cantidad": "50",
+        "descripcion": "pan super bueno",
+        "precio": "$12.00",
+        "imagen": "img/Pan del horno.png"
+    }
+]
